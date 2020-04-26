@@ -5,7 +5,7 @@ export CONTECO_DESCRIPTION="The traefik module package."
 
 export CONTECO_TYPE="package"
 export CONTECO_NAME="traefik"
-export CONTECO_TAG="v1.0.0"
+export CONTECO_TAG="v2.1"
 export CONTECO_TAG_TYPE="incremental"
 
 export CONTECO_BASE="image.wrapper"
